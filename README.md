@@ -1,6 +1,7 @@
 ## Hi there I'm Arnav Puggal ✨
 
 Computer science student at SRMIST Kattankulathur,Chennai
+
 Technologist focused on quantum mechanics, software engineering with full stack deveolopment, and cybersecurity.
 
 
