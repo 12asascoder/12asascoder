@@ -1,23 +1,296 @@
-## Hi there I'm Arnav Puggal ✨
+<!-- ========================= HEADER ========================= -->
 
-Computer science student at SRMIST Kattankulathur,Chennai
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,18,24,30,35&text=ARNAV%20PUGGAL&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%20%7C%20BUILDER&descAlignY=62&descSize=16" width="100%"/>
+</p>
 
-Technologist focused on quantum mechanics, software engineering with full stack deveolopment, and cybersecurity.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=7CFFB2&center=true&vCenter=true&width=850&lines=I+turn+%22what+if%3F%22+into+%22it%27s+live.%22;Full-Stack+%C3%97+AI+%C3%97+Systems+%C3%97+Cybersecurity;Building+things+that+probably+shouldn%27t+exist+yet.;Ship.+Break.+Fix.+Repeat." alt="Typing animation"/>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Q3RrN7ev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_puggal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ab72b5247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavpuggal21@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=12asascoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=12asascoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=12asascoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=12asascoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=12asascoder&label=CURIOUS+VISITORS&color=7CFFB2&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/12asascoder?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/12asascoder?style=for-the-badge&logo=github&label=STARS&color=111827" alt="Stars"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=12asascoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 `WHO_AM_I()`
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│  NAME       →  Arnav Puggal                                  │
+│  ROLE       →  Software Engineering Student + Full-Stack Dev  │
+│  MODE       →  BUILD / BREAK / LEARN / REPEAT                │
+│  SPECIALITY →  Turning weird ideas into working systems       │
+│  CURRENTLY  →  Full-Stack × AI × Automation × Security       │
+│  STATUS     →  ████████████████████░░░░  BUILDING            │
+└───────────────────────────────────────────────────────────────┘
+```
+
+I don't really build **"side projects."**
+
+I build things that usually start with:
+
+> **"wait... what if we actually built this?"**
+
+Then comes the inevitable sequence:
+
+`idea → prototype → architecture → code → chaos → debugging → deployment → "WAIT IT WORKS"`
+
+I'm interested in the space where **software engineering, AI, automation, cybersecurity and product thinking** collide.
+
+I like problems that don't have a neat tutorial.
+
+---
+
+# ⚡ `THE_CURRENT_BUILD`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Compiling+ideas...;%3E+Designing+systems...;%3E+Training+my+brain...;%3E+Deploying+the+impossible...;%3E+Status%3A+still+building+%F0%9F%9A%80" alt="Build status animation"/>
+</p>
+
+### 🚀 Building
+AI-powered products, full-stack platforms, automation workflows, developer tools and systems designed to solve actual problems.
+
+### 🧪 Experimenting
+New architectures. New frameworks. New APIs. New ways to make computers do things they weren't explicitly asked to do.
+
+### 🧠 Learning
+`System Design` · `AI/ML` · `Cybersecurity` · `Cloud` · `Distributed Systems` · `Backend Engineering`
+
+### 🤝 Looking for
+People who see an insane idea and respond with:
+
+**"Okay. Let's build it."**
+
+Open source · Hackathons · Startups · Research · Experimental builds
+
+---
+
+# 🛰️ `MY_BRAIN.EXE`
+
+```text
+                  ┌───────────────────┐
+                  │      PROBLEM      │
+                  └─────────┬─────────┘
+                            ↓
+                  ┌───────────────────┐
+                  │   "WHY THIS WAY?" │
+                  └─────────┬─────────┘
+                            ↓
+             ┌──────────────┴──────────────┐
+             ↓                             ↓
+      ┌──────────────┐              ┌──────────────┐
+      │   RESEARCH   │              │   EXPERIMENT │
+      └──────┬───────┘              └──────┬───────┘
+             └──────────────┬──────────────┘
+                            ↓
+                  ┌───────────────────┐
+                  │      BUILD        │
+                  └─────────┬─────────┘
+                            ↓
+                  ┌───────────────────┐
+                  │      BREAK        │
+                  └─────────┬─────────┘
+                            ↓
+                  ┌───────────────────┐
+                  │      FIX IT       │
+                  └─────────┬─────────┘
+                            ↓
+                  ┌───────────────────┐
+                  │      SHIP 🚀      │
+                  └─────────┬─────────┘
+                            ↓
+                     ┌────────────┐
+                     │  REPEAT ↻  │
+                     └────────────┘
+```
+
+---
+
+# 🧬 `TECH_LOADOUT`
+
+### ⚔️ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,cs,go,swift,kotlin,ruby,dart,powershell" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,graphql" />
+</p>
+
+### 🗄️ Data & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,prisma,firebase" />
+</p>
+
+### ☁️ Cloud / DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,githubactions,vercel,git" />
+</p>
+
+### 🤖 AI / ML / Creative
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,blender,figma" />
+</p>
+
+---
+
+# 🎮 `DEVELOPER_STATS`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=12asascoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12asascoder&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12asascoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+</p>
+
+---
+
+# 📡 `ACTIVITY_SIGNAL`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12asascoder&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%"/>
+</p>
+
+---
+
+# 🏆 `ACHIEVEMENT_UNLOCKED`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=12asascoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
+</p>
+
+---
+
+# 🐍 `THE_CODE_EATS_BACK`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/12asascoder/12asascoder/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="95%"/>
+</p>
+
+---
+
+# 🧠 `ENGINEERING_PHILOSOPHY`
+
+```text
+Don't just write code.
+
+        ↓
+
+Understand the problem.
+
+        ↓
+
+Question the obvious solution.
+
+        ↓
+
+Build something better.
+
+        ↓
+
+Break it.
+
+        ↓
+
+Fix it.
+
+        ↓
+
+Ship it.
+
+        ↓
+
+Learn something you didn't know yesterday.
+```
+
+> **Anyone can make something that works.**
+>
+> **The fun part is making something worth using.**
+
+---
+
+# ⚡ `FUN_FACT.EXE`
+
+I don't have a **side project**.
+
+I have:
+
+`17 unfinished tabs`
+`9 repositories`
+`3 ideas that will "definitely change everything"`
+`1 deployment held together by hope`
+
+And somehow...
+
+**they keep becoming real products.**
+
+---
+
+# 🌐 `ESTABLISH_CONNECTION`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnav-puggal/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/arnav_puggal/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:arnavpuggal21@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/12asascoder">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+
+**Got a problem?**  
+**Got a ridiculous idea?**  
+**Want to build something that shouldn't exist yet?**
+
+### `open_connection();`
+
+</p>
+
+---
+
+# ✍️ `RANDOM_SIGNAL`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
+</p>
+
+---
+
+# 🔝 `WHERE_THE_CODE_LIVES`
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=12asascoder&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,18,24,30,35&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+
+### `BUILD → BREAK → LEARN → SHIP → REPEAT`
+
+<sub>Still experimenting. Still learning. Still shipping.</sub>
+
+</p>
