@@ -248,45 +248,6 @@ I like problems without a copy-paste solution.
 
 ---
 
-# 🧠 `ENGINEERING_PHILOSOPHY`
-
-```text
-DON'T JUST WRITE CODE.
-
-        ↓
-
-UNDERSTAND THE PROBLEM.
-
-        ↓
-
-QUESTION THE OBVIOUS SOLUTION.
-
-        ↓
-
-BUILD SOMETHING BETTER.
-
-        ↓
-
-BREAK IT.
-
-        ↓
-
-FIX IT.
-
-        ↓
-
-SHIP IT.
-
-        ↓
-
-LEARN SOMETHING YOU DIDN'T KNOW YESTERDAY.
-```
-
-> **Anyone can make something that works.**
->
-> **The fun part is making something worth using.**
-
----
 
 # 🌐 `ESTABLISH_CONNECTION`
 
