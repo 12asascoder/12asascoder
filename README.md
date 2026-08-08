@@ -131,40 +131,40 @@ I like problems without a copy-paste solution.
 </p>
 ---
 
+---
+
 # 📊 `DEVELOPER_TELEMETRY`
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=12asascoder&theme=tokyonight&hide_border=true"
-    width="720"
+    width="680"
     alt="GitHub contribution streak"
   />
 </p>
 
 <p align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12asascoder&theme=tokyonight"
-    width="95%"
+    width="88%"
     alt="GitHub profile activity summary"
   />
-
 </p>
 
 <p align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12asascoder&theme=tokyonight"
-    height="180"
-    alt="Repositories by language"
+    width="380"
+    alt="Top languages by repository"
   />
+
+  &nbsp;&nbsp;&nbsp;
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12asascoder&theme=tokyonight"
-    height="180"
-    alt="Most committed languages"
+    width="380"
+    alt="Top languages by commit"
   />
-
 </p>
 
 ---
