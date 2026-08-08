@@ -129,20 +129,34 @@ I like problems without a copy-paste solution.
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,blender,figma" alt="AI ML Creative"/>
 </p>
-
 ---
-
 # 📊 `DEVELOPER_TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12asascoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12asascoder&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=12asascoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Arnav's GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=12asascoder&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Arnav's GitHub streak"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12asascoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top languages"/>
-</p>
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=12asascoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    height="180"
+    alt="Arnav's top languages"
+  />
+
+</p>
 ---
 
 # 📡 `ACTIVITY_SIGNAL`
