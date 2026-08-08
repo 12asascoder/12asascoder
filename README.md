@@ -72,80 +72,32 @@ I like problems without a copy-paste solution.
 
 ---
 
-# 🌐 `LIVE_DEPLOYMENTS`
-
-### `01` — RNTBCI PROJECT
-**A deployed project / engineering build**
-
-<p>
-  <a href="https://rntbci-project.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DEPLOYMENT-000000?style=for-the-badge&labelColor=111827&color=7CFFB2" alt="Open RNTBCI Project"/>
-  </a>
-</p>
-
 ---
 
-### `02` — ELFSOD
-**Development deployment**
-
-<p>
-  <a href="https://elfsod-dev.vercel.app">
-    <img src="https://img.shields.io/badge/⚡%20OPEN%20DEV%20BUILD-000000?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Open ELFSOD Dev"/>
-  </a>
-</p>
-
----
-
-### `03` — ELFSOD 1.0
-**Production deployment**
-
-<p>
-  <a href="https://elfsod1-0.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20OPEN%20DEPLOYMENT-000000?style=for-the-badge&labelColor=111827&color=A78BFA" alt="Open ELFSOD 1.0"/>
-  </a>
-</p>
-
----
-
-### `04` — SPAZORLABS
-**Digital solutions studio — intelligent products, scalable engineering and real-world delivery.**
-
-<p>
-  <a href="https://www.spazorlabs.com">
-    <img src="https://img.shields.io/badge/🛰️%20VISIT%20SPAZORLABS-000000?style=for-the-badge&labelColor=111827&color=F59E0B" alt="Visit SpazorLabs"/>
-  </a>
-</p>
-
-> **Your Vision. Our Execution. Real Impact.**
-
----
-
-### `05` — RESUMIND
-**AI-focused resume / hiring platform**
-
-<p>
-  <a href="https://resumind-frontend.vercel.app">
-    <img src="https://img.shields.io/badge/🤖%20OPEN%20RESUMIND-000000?style=for-the-badge&labelColor=111827&color=34D399" alt="Open RESUMIND"/>
-  </a>
-</p>
-
----
-
-### `06` — HEALTH COMPANION
-**Digital health companion deployment**
-
-<p>
-  <a href="https://health-companion-eight.vercel.app">
-    <img src="https://img.shields.io/badge/🧬%20OPEN%20HEALTH%20COMPANION-000000?style=for-the-badge&labelColor=111827&color=60A5FA" alt="Open Health Companion"/>
-  </a>
-</p>
+# 🚀 `TOP_PROJECTS`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1600&pause=500&color=7CFFB2&center=true&vCenter=true&width=700&lines=6+DEPLOYMENTS+%7C+1+BUILDER+%7C+COUNTLESS+ITERATIONS;Click+one.+Break+something.+Tell+me+what+happened." alt="Deployment animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=7CFFB2&center=true&vCenter=true&width=760&lines=LIVE+BUILDS+%7C+REAL+DEPLOYMENTS+%7C+REAL+PRODUCTS;Scroll+through+the+work+%E2%86%92+click+%E2%86%92+open+the+live+build" alt="Live Projects"/>
+</p>
+
+| 🚀 Project | 🎬 Live Demo | 🧩 Stack |
+|:---|:---:|:---|
+| **RNTBCI Project** | [![RNTBCI Project](./assets/projects/rntbci.gif)](https://rntbci-project.vercel.app) | `LIVE` |
+| **ELFSOD** | [![ELFSOD](./assets/projects/elfsod-dev.gif)](https://elfsod-dev.vercel.app) | `DEV` |
+| **ELFSOD 1.0** | [![ELFSOD 1.0](./assets/projects/elfsod-1-0.gif)](https://elfsod1-0.vercel.app) | `LIVE` |
+| **SpazorLabs** | [![SpazorLabs](./assets/projects/spazorlabs.gif)](https://www.spazorlabs.com) | `LIVE` |
+| **RESUMIND** | [![RESUMIND](./assets/projects/resumind.gif)](https://resumind-frontend.vercel.app) | `LIVE` |
+| **Health Companion** | [![Health Companion](./assets/projects/health-companion.gif)](https://health-companion-eight.vercel.app) | `LIVE` |
+
+<p align="center">
+  <sub>
+    ⚡ Animated previews are generated from the actual deployed builds.
+    <br/>
+    Click any preview to enter the live system.
+  </sub>
 </p>
 
 ---
-
 # 🧬 `TECH_LOADOUT`
 
 ### ⚔️ Languages
