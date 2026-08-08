@@ -83,8 +83,8 @@ I like problems without a copy-paste solution.
 | 🚀 Project | 🎬 Live Demo | 🧩 Stack |
 |:---|:---:|:---|
 | **RNTBCI Project** | [![RNTBCI Project](./assets/projects/rntbci.gif)](https://rntbci-project.vercel.app) | `LIVE` |
-| **ELFSOD** | [![ELFSOD](./assets/projects/elfsod-dev.gif)](https://elfsod-dev.vercel.app) | `DEV` |
 | **ELFSOD 1.0** | [![ELFSOD 1.0](./assets/projects/elfsod-1-0.gif)](https://elfsod1-0.vercel.app) | `LIVE` |
+| **ELFSOD 2.0** | [![ELFSOD](./assets/projects/elfsod-dev.gif)](https://elfsod-dev.vercel.app) | `DEV` |
 | **SpazorLabs** | [![SpazorLabs](./assets/projects/spazorlabs.gif)](https://www.spazorlabs.com) | `LIVE` |
 | **RESUMIND** | [![RESUMIND](./assets/projects/resumind.gif)](https://resumind-frontend.vercel.app) | `LIVE` |
 | **Health Companion** | [![Health Companion](./assets/projects/health-companion.gif)](https://health-companion-eight.vercel.app) | `LIVE` |
