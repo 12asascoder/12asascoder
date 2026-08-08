@@ -1,17 +1,28 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                    ARNAV PUGGAL / README                   -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,18,24,30,35&text=ARNAV%20PUGGAL&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%20%7C%20BUILDER&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,18,24,30,35&text=ARNAV%20PUGGAL&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%20%7C%20BUILDER&descAlignY=63&descSize=16" width="100%" alt="Animated header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=7CFFB2&center=true&vCenter=true&width=850&lines=I+turn+%22what+if%3F%22+into+%22it%27s+live.%22;Full-Stack+%C3%97+AI+%C3%97+Systems+%C3%97+Cybersecurity;Building+things+that+probably+shouldn%27t+exist+yet.;Ship.+Break.+Fix.+Repeat." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=7CFFB2&center=true&vCenter=true&width=900&lines=I+turn+%22what+if%3F%22+into+%22it%27s+live.%22;FULL-STACK+%C3%97+AI+%C3%97+SYSTEMS+%C3%97+CYBERSECURITY;Building+products%2C+not+just+projects.;SHIP+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+REPEAT." alt="Animated typing"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=12asascoder&label=CURIOUS+VISITORS&color=7CFFB2&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/12asascoder?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/12asascoder?style=for-the-badge&logo=github&label=STARS&color=111827" alt="Stars"/>
+  <a href="https://github.com/12asascoder">
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arnav-puggal/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.spazorlabs.com">
+    <img src="https://img.shields.io/badge/SPAZORLABS-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SpazorLabs"/>
+  </a>
+  <a href="mailto:arnavpuggal21@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -19,93 +30,157 @@
 # 🧠 `WHO_AM_I()`
 
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│  NAME       →  Arnav Puggal                                  │
-│  ROLE       →  Software Engineering Student + Full-Stack Dev  │
-│  MODE       →  BUILD / BREAK / LEARN / REPEAT                │
-│  SPECIALITY →  Turning weird ideas into working systems       │
-│  CURRENTLY  →  Full-Stack × AI × Automation × Security       │
-│  STATUS     →  ████████████████████░░░░  BUILDING            │
-└───────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   NAME       →  ARNAV PUGGAL                                   │
+│   ROLE       →  SOFTWARE ENGINEERING × FULL-STACK              │
+│   MODE       →  BUILD / BREAK / LEARN / SHIP                   │
+│   INTERESTS  →  AI · SYSTEMS · SECURITY · CLOUD · PRODUCTS     │
+│   CURRENT    →  TURNING IDEAS INTO DEPLOYED SOFTWARE            │
+│                                                                 │
+│   STATUS     →  ███████████████████████░░  BUILDING            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 I don't really build **"side projects."**
 
-I build things that usually start with:
+I build things that usually begin with:
 
 > **"wait... what if we actually built this?"**
 
-Then comes the inevitable sequence:
+Then the pipeline kicks in:
 
-`idea → prototype → architecture → code → chaos → debugging → deployment → "WAIT IT WORKS"`
+`IDEA → PROTOTYPE → ARCHITECTURE → CODE → CHAOS → DEBUG → DEPLOY → ITERATE`
 
-I'm interested in the space where **software engineering, AI, automation, cybersecurity and product thinking** collide.
+I'm a Software Engineering student and full-stack developer who enjoys
+the intersection of **software, AI, automation, cybersecurity and product engineering**.
 
-I like problems that don't have a neat tutorial.
+I like problems without a copy-paste solution.
 
 ---
 
-# ⚡ `THE_CURRENT_BUILD`
+# ⚡ `CURRENTLY_IN_THE_LAB`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Compiling+ideas...;%3E+Designing+systems...;%3E+Training+my+brain...;%3E+Deploying+the+impossible...;%3E+Status%3A+still+building+%F0%9F%9A%80" alt="Build status animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=450&color=00F7FF&center=true&vCenter=true&width=820&lines=%3E+Designing+systems...;%3E+Building+products...;%3E+Testing+weird+ideas...;%3E+Deploying+the+results...;%3E+Status%3A+still+shipping." alt="Animated build status"/>
 </p>
 
-### 🚀 Building
-AI-powered products, full-stack platforms, automation workflows, developer tools and systems designed to solve actual problems.
-
-### 🧪 Experimenting
-New architectures. New frameworks. New APIs. New ways to make computers do things they weren't explicitly asked to do.
-
-### 🧠 Learning
-`System Design` · `AI/ML` · `Cybersecurity` · `Cloud` · `Distributed Systems` · `Backend Engineering`
-
-### 🤝 Looking for
-People who see an insane idea and respond with:
-
-**"Okay. Let's build it."**
-
-Open source · Hackathons · Startups · Research · Experimental builds
+| 🔭 Building | 🧠 Learning | 🤝 Open To |
+|---|---|---|
+| Full-stack products, AI-powered systems & automation | System Design, AI/ML, Cybersecurity, Cloud & Distributed Systems | Open source, startups, hackathons, research & ambitious builds |
 
 ---
 
-# 🛰️ `MY_BRAIN.EXE`
+# 🌐 `LIVE_DEPLOYMENTS`
+
+### `01` — RNTBCI PROJECT
+**A deployed project / engineering build**
+
+<p>
+  <a href="https://rntbci-project.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DEPLOYMENT-000000?style=for-the-badge&labelColor=111827&color=7CFFB2" alt="Open RNTBCI Project"/>
+  </a>
+</p>
+
+---
+
+### `02` — ELFSOD
+**Development deployment**
+
+<p>
+  <a href="https://elfsod-dev.vercel.app">
+    <img src="https://img.shields.io/badge/⚡%20OPEN%20DEV%20BUILD-000000?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Open ELFSOD Dev"/>
+  </a>
+</p>
+
+---
+
+### `03` — ELFSOD 1.0
+**Production deployment**
+
+<p>
+  <a href="https://elfsod1-0.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20OPEN%20DEPLOYMENT-000000?style=for-the-badge&labelColor=111827&color=A78BFA" alt="Open ELFSOD 1.0"/>
+  </a>
+</p>
+
+---
+
+### `04` — SPAZORLABS
+**Digital solutions studio — intelligent products, scalable engineering and real-world delivery.**
+
+<p>
+  <a href="https://www.spazorlabs.com">
+    <img src="https://img.shields.io/badge/🛰️%20VISIT%20SPAZORLABS-000000?style=for-the-badge&labelColor=111827&color=F59E0B" alt="Visit SpazorLabs"/>
+  </a>
+</p>
+
+> **Your Vision. Our Execution. Real Impact.**
+
+---
+
+### `05` — RESUMIND
+**AI-focused resume / hiring platform**
+
+<p>
+  <a href="https://resumind-frontend.vercel.app">
+    <img src="https://img.shields.io/badge/🤖%20OPEN%20RESUMIND-000000?style=for-the-badge&labelColor=111827&color=34D399" alt="Open RESUMIND"/>
+  </a>
+</p>
+
+---
+
+### `06` — HEALTH COMPANION
+**Digital health companion deployment**
+
+<p>
+  <a href="https://health-companion-eight.vercel.app">
+    <img src="https://img.shields.io/badge/🧬%20OPEN%20HEALTH%20COMPANION-000000?style=for-the-badge&labelColor=111827&color=60A5FA" alt="Open Health Companion"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1600&pause=500&color=7CFFB2&center=true&vCenter=true&width=700&lines=6+DEPLOYMENTS+%7C+1+BUILDER+%7C+COUNTLESS+ITERATIONS;Click+one.+Break+something.+Tell+me+what+happened." alt="Deployment animation"/>
+</p>
+
+---
+
+# 🛰️ `HOW_THE_MACHINE_THINKS`
 
 ```text
-                  ┌───────────────────┐
-                  │      PROBLEM      │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │   "WHY THIS WAY?" │
-                  └─────────┬─────────┘
-                            ↓
-             ┌──────────────┴──────────────┐
-             ↓                             ↓
-      ┌──────────────┐              ┌──────────────┐
-      │   RESEARCH   │              │   EXPERIMENT │
-      └──────┬───────┘              └──────┬───────┘
-             └──────────────┬──────────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      BUILD        │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      BREAK        │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      FIX IT       │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      SHIP 🚀      │
-                  └─────────┬─────────┘
-                            ↓
-                     ┌────────────┐
-                     │  REPEAT ↻  │
-                     └────────────┘
+                         ┌───────────────┐
+                         │    PROBLEM    │
+                         └───────┬───────┘
+                                 ↓
+                      ┌────────────────────┐
+                      │  "WHY THIS WAY?"  │
+                      └─────────┬──────────┘
+                                ↓
+                  ┌─────────────┴─────────────┐
+                  ↓                           ↓
+          ┌──────────────┐             ┌──────────────┐
+          │   RESEARCH   │             │  EXPERIMENT  │
+          └──────┬───────┘             └──────┬───────┘
+                 └─────────────┬───────────────┘
+                               ↓
+                       ┌──────────────┐
+                       │    BUILD     │
+                       └──────┬───────┘
+                              ↓
+                       ┌──────────────┐
+                       │    BREAK     │
+                       └──────┬───────┘
+                              ↓
+                       ┌──────────────┐
+                       │     FIX      │
+                       └──────┬───────┘
+                              ↓
+                       ┌──────────────┐
+                       │   SHIP 🚀    │
+                       └──────┬───────┘
+                              ↓
+                         `ITERATE ↻`
 ```
 
 ---
@@ -114,45 +189,45 @@ Open source · Hackathons · Startups · Research · Experimental builds
 
 ### ⚔️ Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,cs,go,swift,kotlin,ruby,dart,powershell" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,cs,go,swift,kotlin,ruby,dart,powershell" alt="Languages"/>
 </p>
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend & APIs
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,graphql" alt="Backend"/>
 </p>
 
-### 🗄️ Data & Infrastructure
+### 🗄️ Data
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,prisma,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,prisma,firebase" alt="Databases"/>
 </p>
 
 ### ☁️ Cloud / DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,githubactions,vercel,git" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,githubactions,vercel,git" alt="Cloud and DevOps"/>
 </p>
 
 ### 🤖 AI / ML / Creative
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,blender,figma" alt="AI ML Creative"/>
 </p>
 
 ---
 
-# 🎮 `DEVELOPER_STATS`
+# 📊 `DEVELOPER_TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12asascoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12asascoder&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=12asascoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12asascoder&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12asascoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12asascoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top languages"/>
 </p>
 
 ---
@@ -160,23 +235,15 @@ Open source · Hackathons · Startups · Research · Experimental builds
 # 📡 `ACTIVITY_SIGNAL`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12asascoder&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12asascoder&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%" alt="GitHub activity graph"/>
 </p>
 
 ---
 
-# 🏆 `ACHIEVEMENT_UNLOCKED`
+# 🏆 `ACHIEVEMENTS`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12asascoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
-</p>
-
----
-
-# 🐍 `THE_CODE_EATS_BACK`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/12asascoder/12asascoder/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=12asascoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%" alt="GitHub trophies"/>
 </p>
 
 ---
@@ -184,57 +251,40 @@ Open source · Hackathons · Startups · Research · Experimental builds
 # 🧠 `ENGINEERING_PHILOSOPHY`
 
 ```text
-Don't just write code.
+DON'T JUST WRITE CODE.
 
         ↓
 
-Understand the problem.
+UNDERSTAND THE PROBLEM.
 
         ↓
 
-Question the obvious solution.
+QUESTION THE OBVIOUS SOLUTION.
 
         ↓
 
-Build something better.
+BUILD SOMETHING BETTER.
 
         ↓
 
-Break it.
+BREAK IT.
 
         ↓
 
-Fix it.
+FIX IT.
 
         ↓
 
-Ship it.
+SHIP IT.
 
         ↓
 
-Learn something you didn't know yesterday.
+LEARN SOMETHING YOU DIDN'T KNOW YESTERDAY.
 ```
 
 > **Anyone can make something that works.**
 >
 > **The fun part is making something worth using.**
-
----
-
-# ⚡ `FUN_FACT.EXE`
-
-I don't have a **side project**.
-
-I have:
-
-`17 unfinished tabs`
-`9 repositories`
-`3 ideas that will "definitely change everything"`
-`1 deployment held together by hope`
-
-And somehow...
-
-**they keep becoming real products.**
 
 ---
 
@@ -250,47 +300,23 @@ And somehow...
   <a href="mailto:arnavpuggal21@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/12asascoder">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.spazorlabs.com">
+    <img src="https://img.shields.io/badge/SPAZORLABS-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-
-**Got a problem?**  
-**Got a ridiculous idea?**  
-**Want to build something that shouldn't exist yet?**
-
-### `open_connection();`
-
-</p>
-
----
-
-# ✍️ `RANDOM_SIGNAL`
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
-</p>
-
----
-
-# 🔝 `WHERE_THE_CODE_LIVES`
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=12asascoder&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=600&color=7CFFB2&center=true&vCenter=true&width=780&lines=Got+a+problem%3F;Got+a+ridiculous+idea%3F;Want+to+build+something+that+shouldn't+exist+yet%3F;open_connection()%3B" alt="Connection animation"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,18,24,30,35&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,18,24,30,35&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
 </p>
 
 <p align="center">
-
-### `BUILD → BREAK → LEARN → SHIP → REPEAT`
-
-<sub>Still experimenting. Still learning. Still shipping.</sub>
-
+  <b>BUILD → BREAK → LEARN → SHIP → REPEAT</b>
+  <br/>
+  <sub>Still experimenting. Still learning. Still shipping.</sub>
 </p>
