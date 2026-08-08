@@ -131,8 +131,6 @@ I like problems without a copy-paste solution.
 </p>
 ---
 
----
-
 # 📊 `DEVELOPER_TELEMETRY`
 
 <p align="center">
@@ -151,21 +149,24 @@ I like problems without a copy-paste solution.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12asascoder&theme=tokyonight"
-    width="380"
-    alt="Top languages by repository"
-  />
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12asascoder&theme=tokyonight"
-    width="380"
-    alt="Top languages by commit"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12asascoder&theme=tokyonight"
+        width="400"
+        alt="Top Languages by Repository"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12asascoder&theme=tokyonight"
+        width="400"
+        alt="Top Languages by Commit"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 # 📡 `ACTIVITY_SIGNAL`
