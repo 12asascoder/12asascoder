@@ -240,10 +240,17 @@ I like problems without a copy-paste solution.
 
 ---
 
+
 # 🏆 `ACHIEVEMENTS`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12asascoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%" alt="GitHub trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy-liard-delta.vercel.app/?username=12asascoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
+      width="95%"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
 ---
